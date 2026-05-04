@@ -15,9 +15,9 @@
   --boxShadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
   --fontFamily: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
   /* Color Scheme */
-  --primaryColor: #533BE2;
-  --backgroundColor: #FFFFFF;
-  --textColor: #253B48;
+  --primaryColor: #5a6ded;
+  --backgroundColor: #22242f;
+  --textColor: ##dedfe3;
   /* Backdrop */
   --backdropBackgroundColor: #00000033;
   --backdropBackgroundBlur: 0px;
