@@ -465,8 +465,7 @@ class SilktideCookieBanner {
       <footer>
         ${acceptAllButton}
         ${rejectNonEssentialButton}
-        ${creditLink}
-      </footer>
+          </footer>
     `;
 
     return modalContent;
